@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lacmapper2025.github.io/lacmapper/sitemap.xml
